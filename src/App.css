@@ -1,0 +1,15 @@
+.square {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+  }
+
+  .gameBoard{
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      width: 620px;
+      margin: 0 auto;
+      font-size: 200px;
+      text-align: center;
+  }
